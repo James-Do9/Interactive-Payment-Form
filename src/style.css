@@ -7,3 +7,7 @@ p {
 #errorMsg {
   background-color: white;
 }
+.invalid {
+  border: 1px solid red;
+  background-color: rgb(244, 198, 203);
+}
